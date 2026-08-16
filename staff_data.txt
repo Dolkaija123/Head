@@ -1,0 +1,2 @@
+STAFF|PermanentStaff|John Smith|Developer|IT|5|
+STAFF|PermanentStaff|Sarah Jones|Tester|QA|3|
